@@ -1,0 +1,7 @@
+{
+  "name": "DogLog",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
